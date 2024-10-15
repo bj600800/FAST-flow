@@ -14,7 +14,7 @@ Protein function prediction is considered the Holy Grail of structural biology, 
 ## Results
 We have summarized cutting-edge algorithms in the field of enzyme function research, categorizing them into six main types: enzyme function classification, catalytic kinetic parameter prediction, solubility prediction, folding stability prediction, thermal stability prediction, and hybrid methods. For each algorithm, we collected seven relevant pieces of information: method name, description of method characteristics, algorithm type, dataset, citation, code repository, and online server availability. We hope that FAST-flow, this comprehensive knowledge base, will meet the algorithmic needs of researchers in this field, thereby facilitating their endeavors in enzyme research.
 
-## 1. Thermal Stability Prediction (Enzyme catalytic related)
+## 1. Thermal Stability (Enzyme catalytic related)
 | Name          | Description                          | Algorithm      | Input data              | Citation                    | Repository                    | Web Server           |
 |---------------|--------------------------------------|---------------------|------------------------|-----------------------------|----------------------------------------|----------------------|
 | Tome | Predicting microorganism growth temperatures and enzyme catalytic optima | Different 6 machine learning models | Sequence| [Li, 2019, ACS Synthetic Biology](https://pubs.acs.org/doi/full/10.1021/acssynbio.9b00099)  | [GitHub](https://github.com/EngqvistLab/Tome)  | Not aviliable|
@@ -24,7 +24,7 @@ We have summarized cutting-edge algorithms in the field of enzyme function resea
 | Tool E        | A tool for analyzing thermodynamics   | Thermodynamic Modeling| Simulation data         | [Author, Year, Journal](http://example.com)  | [Link to Tool E](http://example.com)  | [Tool E Web Server](http://example.com) |
 | Tool F        | A platform for enzyme engineering      | Hybrid Approach       | Multi-omics data       | [Author, Year, Journal](http://example.com)  | [Link to Tool F](http://example.com)  | No                   |
 
-## 2. Enzyme Kinetics Prediction
+## 2. Enzyme Kinetics 
 | Name          | Description                          | Algorithm      | Dataset              | Citation                    | Repository                     | Web Server           |
 |---------------|--------------------------------------|---------------------|------------------------|-----------------------------|----------------------------------------|----------------------|
 | Tool A        | A tool for screening enzyme functions| Machine Learning     | Protein sequences       | Author A. (Year). Title.  | [Link to Tool A](http://example.com)  | [Tool A Web Server](http://example.com) |
@@ -34,7 +34,7 @@ We have summarized cutting-edge algorithms in the field of enzyme function resea
 | Tool E        | A tool for analyzing thermodynamics   | Thermodynamic Modeling| Simulation data         | Author E. (Year). Title.  | [Link to Tool E](http://example.com)  | [Tool E Web Server](http://example.com) |
 | Tool F        | A platform for enzyme engineering      | Hybrid Approach       | Multi-omics data       | Author F. (Year). Title.  | [Link to Tool F](http://example.com)  | No                   |
 
-## 3. Folding Stability Prediction (Protein folding energy)
+## 3. Folding Stability (Protein folding energy)
 | Name          | Description                          | Algorithm      | Dataset              | Citation                    | Repository                        | Web Server           |
 |---------------|--------------------------------------|---------------------|------------------------|-----------------------------|----------------------------------------|----------------------|
 | Tool A        | A tool for screening enzyme functions| Machine Learning     | Protein sequences       | Author A. (Year). Title.  | [Link to Tool A](http://example.com)  | [Tool A Web Server](http://example.com) |
