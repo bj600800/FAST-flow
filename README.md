@@ -2,7 +2,7 @@
 Functional Assessment and Screening for Enzyme Testing Workflow
 
 ## Background
-Protein function prediction is considered the Holy Grail of structural biology, aiming to directly infer protein function from sequence and structural data. Algorithms for enzyme function screening and design have been developed over several decades, resulting in the creation of thousands of distinct methods. However, the rapid pace of algorithm advancement, coupled with a lack of comprehensive classification and comparison, has significantly limited the effective integration of these tools into life sciences research. A well-organized knowledge base that categorizes and reviews these algorithms is essential for facilitating their practical use and advancing enzyme-related research.
+Protein function prediction is considered the Holy Grail of structural biology, aiming to directly infer protein function from sequence and structural data. Algorithms for enzyme function screening and design have been developed over several decades, resulting in the creation of thousands of distinct methods. However, the rapid pace of algorithm advancement, coupled with a lack of comprehensive classification and comparison, has significantly limited the effective integration of these tools into life sciences research. A well-organized knowledge base that categorizes and reviews these algorithms is essential for facilitating their practical use and advancing enzyme function prediction.
 
 ## Motivation
 ⭐ **Bridge Bench and Silicon Research**: Facilitate collaboration between computational scientists and experimental biochemists.
