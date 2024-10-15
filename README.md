@@ -1,2 +1,2 @@
 # FAST-flow
-Functional Assessment and Screening for Testing Workflow
+Functional Assessment and Screening for Enzyme Testing Workflow
