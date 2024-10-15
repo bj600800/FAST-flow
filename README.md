@@ -2,7 +2,7 @@
 Functional Assessment and Screening for Enzyme Testing Workflow
 
 
-## 1. Folding Stability Prediction (protein folding state)
+## 1. Folding Stability Prediction (Protein Folding State)
 | Name          | Description                          | Algorithm      | Dataset              | Citation                    | Repository                        | Web Server           |
 |---------------|--------------------------------------|---------------------|------------------------|-----------------------------|----------------------------------------|----------------------|
 | Tool A        | A tool for screening enzyme functions| Machine Learning     | Protein sequences       | Author A. (Year). Title.  | [Link to Tool A](http://example.com)  | [Tool A Web Server](http://example.com) |
@@ -12,7 +12,7 @@ Functional Assessment and Screening for Enzyme Testing Workflow
 | Tool E        | A tool for analyzing thermodynamics   | Thermodynamic Modeling| Simulation data         | Author E. (Year). Title.  | [Link to Tool E](http://example.com)  | [Tool E Web Server](http://example.com) |
 | Tool F        | A platform for enzyme engineering      | Hybrid Approach       | Multi-omics data       | Author F. (Year). Title.  | [Link to Tool F](http://example.com)  | No                   |
 
-## 2. Thermal Stability Prediction (catalytic activity)
+## 2. Thermal Stability Prediction (Enzyme Catalytic Parameters)
 | Name          | Description                          | Algorithm      | Dataset              | Citation                    | Repository                    | Web Server           |
 |---------------|--------------------------------------|---------------------|------------------------|-----------------------------|----------------------------------------|----------------------|
 | Tool A        | A tool for screening enzyme functions| Machine Learning     | Protein sequences       | Author A. (Year). Title.  | [Link to Tool A](http://example.com)  | [Tool A Web Server](http://example.com) |
