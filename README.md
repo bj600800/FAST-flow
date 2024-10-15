@@ -1,6 +1,9 @@
 # FAST-flow
 Functional Assessment and Screening for Enzyme Testing Workflow
 
+## Background
+Algorithms for enzyme screening and design have been developed over several decades, resulting in the creation of thousands of distinct methods. However, the rapid pace of algorithm advancement, coupled with a lack of comprehensive classification and comparison, has significantly limited the effective integration of these tools into life sciences research. As new algorithms emerge, researchers often struggle to identify the most suitable methods for their specific applications, which hinders progress in enzyme optimization and understanding. A well-organized knowledge base that categorizes and evaluates these algorithms is essential for facilitating their practical use and advancing enzyme-related research.
+
 ## Motivation
 1. **Bridge Bench and Silicon Research**: Facilitate collaboration between computational scientists and experimental biochemists.
 
@@ -8,6 +11,8 @@ Functional Assessment and Screening for Enzyme Testing Workflow
 
 3. **Encourage Innovation**: Inspire new ideas and approaches by showcasing available methodologies and their applications.
 
+## Results
+We have summarized key frontier algorithms in the field of enzyme function research, categorizing them into six main types: enzyme function prediction, catalytic kinetic parameter prediction, solubility prediction, folding stability prediction, thermal stability prediction, and hybrid methods. For each algorithm, we collected seven relevant pieces of information: name, algorithm characteristics, algorithm type, data type, reference citations, code repository links, and online server availability. We hope that this comprehensive compilation will meet the algorithmic needs of researchers in this domain, facilitating their efforts in enzyme screening and design.
 
 
 ## 1. Folding Stability Prediction (Protein Folding State)
