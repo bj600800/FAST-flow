@@ -26,7 +26,7 @@ We have summarized cutting-edge algorithms in the field of enzyme function resea
 | FireProt 2.0| Designing thermal stable proteins| Energy-based, evolution-based and ancestral reconstruction-based approaches| Sequence and structure | [Musil, 2023, Briefings in Bioinformatics](https://academic.oup.com/bib/article/25/1/bbad425/7453438)  | Not available| [FireProt 2.0](https://loschmidt.chemi.muni.cz/fireprotweb/) |
 
 
-## 2. Enzyme Kinetics 
+## 2. Catalytic Kinetic Parameters
 | Name          | Description                          | Algorithm      | Dataset              | Citation                    | Repository                     | Web Server           |
 |---------------|--------------------------------------|---------------------|------------------------|-----------------------------|----------------------------------------|----------------------|
 | Tool A        | A tool for screening enzyme functions| Machine Learning     | Protein sequences       | Author A. (Year). Title.  | [Link to Tool A](http://example.com)  | [Tool A Web Server](http://example.com) |
@@ -36,7 +36,7 @@ We have summarized cutting-edge algorithms in the field of enzyme function resea
 | Tool E        | A tool for analyzing thermodynamics   | Thermodynamic Modeling| Simulation data         | Author E. (Year). Title.  | [Link to Tool E](http://example.com)  | [Tool E Web Server](http://example.com) |
 | Tool F        | A platform for enzyme engineering      | Hybrid Approach       | Multi-omics data       | Author F. (Year). Title.  | [Link to Tool F](http://example.com)  | No                   |
 
-## 3. Folding Stability (Folding energy)
+## 3. Folding Stability (ddG related)
 | Name          | Description                          | Algorithm      | Dataset              | Citation                    | Repository                        | Web Server           |
 |---------------|--------------------------------------|---------------------|------------------------|-----------------------------|----------------------------------------|----------------------|
 | Tool A        | A tool for screening enzyme functions| Machine Learning     | Protein sequences       | Author A. (Year). Title.  | [Link to Tool A](http://example.com)  | [Tool A Web Server](http://example.com) |
