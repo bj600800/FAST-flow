@@ -14,7 +14,7 @@ Protein function prediction is considered the Holy Grail of structural biology, 
 ## Results
 We have summarized key frontier algorithms in the field of enzyme function research, categorizing them into six main types: enzyme function prediction, catalytic kinetic parameter prediction, solubility prediction, folding stability prediction, thermal stability prediction, and hybrid methods. For each algorithm, we collected seven relevant pieces of information: method name, description of method characteristics, algorithm type, dataset, citation, code repository, and online server availability. We hope that this comprehensive knowledge base will meet the algorithmic needs of researchers in this domain, facilitating their efforts in enzyme research.
 
-## 1. Thermal Stability Prediction (Enzyme Catalytic Parameters)
+## 1. Thermal Stability Prediction (Enzyme Catalytic related)
 | Name          | Description                          | Algorithm      | Dataset              | Citation                    | Repository                    | Web Server           |
 |---------------|--------------------------------------|---------------------|------------------------|-----------------------------|----------------------------------------|----------------------|
 | Tool A        | A tool for screening enzyme functions| Machine Learning     | Protein sequences       | Author A. (Year). Title.  | [Link to Tool A](http://example.com)  | [Tool A Web Server](http://example.com) |
@@ -34,7 +34,7 @@ We have summarized key frontier algorithms in the field of enzyme function resea
 | Tool E        | A tool for analyzing thermodynamics   | Thermodynamic Modeling| Simulation data         | Author E. (Year). Title.  | [Link to Tool E](http://example.com)  | [Tool E Web Server](http://example.com) |
 | Tool F        | A platform for enzyme engineering      | Hybrid Approach       | Multi-omics data       | Author F. (Year). Title.  | [Link to Tool F](http://example.com)  | No                   |
 
-## 3. Folding Stability Prediction (Protein Folding State)
+## 3. Folding Stability Prediction (Protein Folding energy)
 | Name          | Description                          | Algorithm      | Dataset              | Citation                    | Repository                        | Web Server           |
 |---------------|--------------------------------------|---------------------|------------------------|-----------------------------|----------------------------------------|----------------------|
 | Tool A        | A tool for screening enzyme functions| Machine Learning     | Protein sequences       | Author A. (Year). Title.  | [Link to Tool A](http://example.com)  | [Tool A Web Server](http://example.com) |
