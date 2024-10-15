@@ -3,7 +3,7 @@ Functional Assessment and Screening for Enzyme Testing Workflow
 
 
 ## 1. Folding Stability Prediction (protein folding state)
-| Name          | Description                          | Algorithm Type      | Data Used              | Citation                    | Repository Link                        | Web Server           |
+| Name          | Description                          | Algorithm Type      | Data Used              | Citation                    | Repository                        | Web Server           |
 |---------------|--------------------------------------|---------------------|------------------------|-----------------------------|----------------------------------------|----------------------|
 | Tool A        | A tool for screening enzyme functions| Machine Learning     | Protein sequences       | Author A. (Year). Title.  | [Link to Tool A](http://example.com)  | [Tool A Web Server](http://example.com) |
 | Tool B        | A method for enzyme design           | Molecular Dynamics    | Structural data         | Author B. (Year). Title.  | [Link to Tool B](http://example.com)  | No                   |
@@ -13,7 +13,7 @@ Functional Assessment and Screening for Enzyme Testing Workflow
 | Tool F        | A platform for enzyme engineering      | Hybrid Approach       | Multi-omics data       | Author F. (Year). Title.  | [Link to Tool F](http://example.com)  | No                   |
 
 ## 2. Thermal Stability Prediction (catalytic activity)
-| Name          | Description                          | Algorithm Type      | Data Used              | Citation                    | Repository Link                        | Web Server           |
+| Name          | Description                          | Algorithm Type      | Data Used              | Citation                    | Repository                    | Web Server           |
 |---------------|--------------------------------------|---------------------|------------------------|-----------------------------|----------------------------------------|----------------------|
 | Tool A        | A tool for screening enzyme functions| Machine Learning     | Protein sequences       | Author A. (Year). Title.  | [Link to Tool A](http://example.com)  | [Tool A Web Server](http://example.com) |
 | Tool B        | A method for enzyme design           | Molecular Dynamics    | Structural data         | Author B. (Year). Title.  | [Link to Tool B](http://example.com)  | No                   |
@@ -23,7 +23,7 @@ Functional Assessment and Screening for Enzyme Testing Workflow
 | Tool F        | A platform for enzyme engineering      | Hybrid Approach       | Multi-omics data       | Author F. (Year). Title.  | [Link to Tool F](http://example.com)  | No                   |
 
 ## 3. Enzyme Kinetics Parameters Prediction
-| Name          | Description                          | Algorithm Type      | Data Used              | Citation                    | Repository Link                        | Web Server           |
+| Name          | Description                          | Algorithm Type      | Data Used              | Citation                    | Repository                     | Web Server           |
 |---------------|--------------------------------------|---------------------|------------------------|-----------------------------|----------------------------------------|----------------------|
 | Tool A        | A tool for screening enzyme functions| Machine Learning     | Protein sequences       | Author A. (Year). Title.  | [Link to Tool A](http://example.com)  | [Tool A Web Server](http://example.com) |
 | Tool B        | A method for enzyme design           | Molecular Dynamics    | Structural data         | Author B. (Year). Title.  | [Link to Tool B](http://example.com)  | No                   |
