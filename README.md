@@ -17,7 +17,7 @@ We have summarized cutting-edge algorithms in the field of enzyme function resea
 ## 1. Thermal Stability Prediction (Enzyme catalytic related)
 | Name          | Description                          | Algorithm      | Dataset              | Citation                    | Repository                    | Web Server           |
 |---------------|--------------------------------------|---------------------|------------------------|-----------------------------|----------------------------------------|----------------------|
-| Tome | A tool for screening enzyme functions| Machine Learning     | Protein sequences       | [Author, Year, Journal](http://example.com)  | [Link to Tool A](http://example.com)  | [Tool A Web Server](http://example.com) |
+| Tome | predicting microorganism growth temperatures and enzyme catalytic optima | Machine Learning     | Protein sequences       | [Author, Year, Journal](http://example.com)  | [Link to Tool A](http://example.com)  | [Tool A Web Server](http://example.com) |
 | Tool B        | A method for enzyme design           | Molecular Dynamics    | Structural data         | [Author, Year, Journal](http://example.com)  | [Link to Tool B](http://example.com)  | No                   |
 | Tool C        | An approach for predicting activity   | Statistical Modeling  | Experimental data       | [Author, Year, Journal](http://example.com)  | [Link to Tool C](http://example.com)  | [Tool C Web Server](http://example.com) |
 | Tool D        | Tool for optimizing enzyme properties | Genetic Algorithms    | Genomic data           | [Author, Year, Journal](http://example.com)  | [Link to Tool D](http://example.com)  | No                   |
