@@ -29,14 +29,12 @@ We have summarized cutting-edge algorithms in the field of enzyme function resea
 
 
 ## 2. Catalytic Kinetic Parameters
-| Name          | Description                          | Algorithm      | Dataset              | Citation                    | Repository                     | Web Server           |
-|---------------|--------------------------------------|---------------------|------------------------|-----------------------------|----------------------------------------|----------------------|
-| Tool A        | A tool for screening enzyme functions| Machine Learning     | Protein sequences       | Author A. (Year). Title.  | [Link to Tool A](http://example.com)  | [Tool A Web Server](http://example.com) |
-| Tool B        | A method for enzyme design           | Molecular Dynamics    | Structural data         | Author B. (Year). Title.  | [Link to Tool B](http://example.com)  | No                   |
-| Tool C        | An approach for predicting activity   | Statistical Modeling  | Experimental data       | Author C. (Year). Title.  | [Link to Tool C](http://example.com)  | [Tool C Web Server](http://example.com) |
-| Tool D        | Tool for optimizing enzyme properties | Genetic Algorithms    | Genomic data           | Author D. (Year). Title.  | [Link to Tool D](http://example.com)  | No                   |
-| Tool E        | A tool for analyzing thermodynamics   | Thermodynamic Modeling| Simulation data         | Author E. (Year). Title.  | [Link to Tool E](http://example.com)  | [Tool E Web Server](http://example.com) |
-| Tool F        | A platform for enzyme engineering      | Hybrid Approach       | Multi-omics data       | Author F. (Year). Title.  | [Link to Tool F](http://example.com)  | No                   |
+| Name          | Description                          | Algorithm      | Input data              | Citation                    | Repository                    | Web Server           |
+|---------------|-------------------------------------|----------------|--------------------------|-----------------------------|-------------------------------|----------------------|
+| UniKP         | A unified framework for predicting enzyme kinetic parameters (kcat, Km) | Machine learning models | Sequence and kinetic parameters | [Yu, 2023, Nat Commun](https://doi.org/10.1038/s41467-023-44113-1) | [GitHub](https://github.com/Luo-SynBioLab/UniKP)  | Not available       |
+| MPEK          | A multitask deep learning framework for predicting enzymatic reaction kinetic parameters | Pretrained language models | Sequence, kcat, and Km values  | [Wang, 2024, Briefings in Bioinformatics](https://doi.org/10.1093/bib/bbae387)  | [GitHub](https://github.com/kotori-y/mpek)  | [Web Server](http://mathtc.nscc-tj.cn/mpek) |
+| DeepEnzyme    | A deep learning model utilizing protein 3D-structure features for predicting enzyme turnover numbers (kcat) | GCN, Transformers | Sequence, 3D-structure, enzyme-substrate interactions | [Wang, 2024, Briefings in Bioinformatics](https://doi.org/10.1093/bib/bbae409)  | [GitHub](https://GitHub.com/hongzhonglu/DeepEnzyme)  | Not available       |
+| EITLEM-Kinetics | A deep learning and ensemble transfer learning strategy for enzyme mutant kinetic parameter prediction | Deep learning, Transfer learning | Sequence, substrate information, kcat, Km, KKm | [XvesS, 2024, Unpublished](https://github.com/XvesS/EITLEM-Kinetics/tree/main) | [GitHub](https://github.com/XvesS/EITLEM-Kinetics)  | Not available       |
 
 ## 3. Folding Stability (ddG related)
 | Name          | Description                          | Algorithm      | Dataset              | Citation                    | Repository                        | Web Server           |
