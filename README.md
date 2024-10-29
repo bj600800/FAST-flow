@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dfb01a07-43f3-4871-87c8-c982f9696429)FAST-flow
+FAST-flow
 **F**unctional **A**ssessment, **S**creening and **T**esting **Workflow** for enzymes
 
 ## Background
