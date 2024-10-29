@@ -40,7 +40,8 @@ We have summarized cutting-edge algorithms in the field of enzyme function resea
 | Name          | Description                          | Algorithm      | Input | Output        | Citation                    | Repository                    | Web Server           |
 |---------------|--------------------------------------|---------------|---------|----|-----------------------------|----------------------------------------|----------------------|
 | Pstab | Rapid prediction of changes in protein stabilities over a range of temperatures and experimental conditions upon single- or multiple-point substitutions of charged residues | Ising-like statistical mechanical model | Structure|  ddG   | [Gopi, 2018, Bioinfomatics](https://doi.org/10.1038/s41467-023-44113-1)  | Not available  | [Pstab](https://pbl.biotech.iitm.ac.in/pStab/)|
-| FunFolDes | Embed functional motifs into heterologous proteins with Rosetta | Ensemble learning and resampling strategies| Structure | Designed structure |[Bonet, 2018, PLOS Computational Biology](https://doi.org/10.1371/journal.pcbi.1006623)  | [FunFolDes](https://github.com/lpdi-epfl/FunFolDesData)  | Not available |
+| FunFolDes | Embed functional motifs into heterologous proteins with Rosetta | Ensemble learning and resampling strategies| Structure | Designed structure |[Bonet, 2018, PLOS Computational Biology](https://doi.org/10.1371/journal.pcbi.1006623)  | [Github](https://github.com/lpdi-epfl/FunFolDesData)  | Not available |
+| Rosetta | A comprehensive platform for protein sampling and design | Energy physical functions| Structure | Designed structure |[Leman, 2020, Nature methods](https://www.nature.com/articles/s41592-020-0848-2)  | [Github](https://github.com/rosettacommons)  | [Rosetta commons](https://rosettacommons.org/) |
 
 
 
