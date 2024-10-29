@@ -39,12 +39,18 @@ We have summarized cutting-edge algorithms in the field of enzyme function resea
 ## 3. Folding Stability (ddG related)
 | Name          | Description                          | Algorithm      | Input | Output        | Citation                    | Repository                    | Web Server           |
 |---------------|--------------------------------------|---------------|---------|----|-----------------------------|----------------------------------------|----------------------|
-| PROVEAN | Analyze the effects of amino acid variants on protein function and stability, supporting single point mutations and insertion/deletion variants | Evolutionary analysis |Sequence |Mutation | [Choi, 2015, Bioinformatics](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00697)  | [sourceforge](https://sourceforge.net/projects/provean/)  | [PROVEAN](https://www.jcvi.org/research/provean) |
+| PROVEAN | Analyze the effects of amino acid variants on protein function and stability, supporting single point mutations and insertion/deletion variants | Evolutionary analysis |Sequence |Mutation | [Choi, 2015, Bioinformatics](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00697)  | [Sourceforge](https://sourceforge.net/projects/provean/)  | [PROVEAN](https://www.jcvi.org/research/provean) |
 | Pstab | Rapid prediction of changes in protein stabilities over a range of temperatures and experimental conditions upon single- or multiple-point substitutions of charged residues | Ising-like statistical mechanical model | Structure|  ddG   | [Gopi, 2018, Bioinfomatics](https://doi.org/10.1038/s41467-023-44113-1)  | Not available  | [Pstab](https://pbl.biotech.iitm.ac.in/pStab/)|
 | FunFolDes | Embed functional motifs into heterologous proteins with Rosetta | Ensemble learning and resampling strategies| Structure | Designed structure |[Bonet, 2018, PLOS Computational Biology](https://doi.org/10.1371/journal.pcbi.1006623)  | [Github](https://github.com/lpdi-epfl/FunFolDesData)  | Not available |
 | Rosetta | A comprehensive platform for protein sampling and design | Energy physical functions| Structure | Designed structure |[Leman, 2020, Nature methods](https://www.nature.com/articles/s41592-020-0848-2)  | [Github](https://github.com/rosettacommons)  | [Rosetta commons](https://rosettacommons.org/) |
 | FoldX | parallel functions of Rosetta |Empirical energy functions | Structure |ddG | [Delgado, 2019, Bioinformatics](https://academic.oup.com/bioinformatics/article/35/20/4168/5381539)  | Not available  | [FoldX](http://foldxsuite.crg.eu/) |
 | DeepDDG | Predicting the effect of mutations on protein stability using deep learning models that utilize sequence and structural information | CNN |Structure |ddG | [Cao, 2019, ACS JCIM](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00697)  | Not available  | [DeepDDG](https://protein.org.cn/ddg.html) |
+
+## 4. Protein function
+| Name          | Description                          | Algorithm      | Input | Output        | Citation                    | Repository                    | Web Server           |
+|---------------|--------------------------------------|---------------|---------|----|-----------------------------|----------------------------------------|----------------------|
+| Chemprop | Prediction of molecular properties including protein-ligand binding activity | Graph neural networks |Sequence |Binding activity | [Heid, 2023, ACS JCIM](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01250)  | [Github](https://github.com/chemprop/chemprop)  | Not available |
+
 
 
 
