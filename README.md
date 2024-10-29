@@ -56,6 +56,6 @@ We have summarized cutting-edge algorithms in the field of enzyme function resea
 
 
 ## Acknowledgment
-I would like to acknowledge Chen Muyang and Li Jiahao for their valuable contributions to this review.
+I would like to acknowledge Li Jiahao and Chen Muyang for their valuable contributions to this review.
 
 
